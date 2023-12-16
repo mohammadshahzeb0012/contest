@@ -1,6 +1,38 @@
-body{
-    background-color: brown;
+#first{
+    border: 1px solid black;
+    height: 50vh;
+    box-sizing: border-box;
 }
-h1{
-    background-color: aqua;
+#first, h1{
+    padding-left: 1%;
+    text-decoration: underline;
+}
+#para{
+    padding-left: 1%;
+    padding-right: 1%;
+    text-align: left;
+}
+#para, #btn-1{
+    color: black;
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+#img-h2{
+    padding-left: 1%;
+    color: #000000;
+    text-decoration: underline;
+}
+#img{
+    width: 45vw;
+    height: 50vh;
+    padding-left: 1%;
+}
+#more-images{
+    color: #000000;
+    padding-left: 1%;
+    padding-top: 1%;
+}
+#Trivia{
+padding-left: 1%;
+text-decoration: underline;
 }
